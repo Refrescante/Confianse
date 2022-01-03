@@ -25,14 +25,26 @@
 .fondoatt{
 
     background-image: url("/Recursos/images/fond1.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 
 .servd{
     border: 2px solid var(--primario);
 
+
+}
+
+.hrnop {
+    color: var(--primario);
+    opacity: 1;
+
+}
+
+.nossubt{
+    font-size: 3.5em;
+    font-weight: bold;
 
 }
